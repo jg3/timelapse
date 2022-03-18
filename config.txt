@@ -1,0 +1,10 @@
+# this is ~pi/config.txt
+# every 2 minutes cron runs: libcamera-still -c
+# causing it to the configurations in this file
+verbose = 1
+#rawfull = 1
+datetime = 1
+output = /home/pi/timelapse/images
+latest = timelapse/images/latest-image.jpg
+nopreview = 1
+#immediate = 1
