@@ -1,0 +1,10 @@
+/var/log/timelapse-camera.log
+{
+    size 10M
+    rotate 7
+    compress
+    maxage 7
+    ifempty
+    missingok
+    create 664 pi pi
+}
