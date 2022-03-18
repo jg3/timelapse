@@ -47,6 +47,8 @@ This is in crontab for user pi edit yours with `crontab -e`:
 #*/10 * * * * /home/pi/timelapse/make-video.sh 60
 ```
 
-When I was testing this setup, my son was doing one of those "grow your own crystals" kits, so we made this timelapse of it.  The crystals didn't work very well, for some reason.
+When I was testing this setup, my son was doing one of those "grow your own crystals" kits, so we made this timelapse of it.  The crystals didn't work very well for some reason ... but the timelapse was fun!
 
-`timelapse_goes_here`
+https://user-images.githubusercontent.com/2963153/158958066-3b81d0d0-c903-49d4-9487-56a12aa3fdc0.mp4
+
+
